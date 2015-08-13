@@ -1,7 +1,7 @@
 ---
 title:  "Git Dictionary"
 date:   2013-11-10 10:18:00
-description: 
+description: A Quick Reference Guide to Git Lingo
 ---
 **Branch:** How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project. 
 
@@ -15,9 +15,9 @@ description:
  
 **Fork:** “Forking” is when you create a new project based off of another project that already exists. This is an amazing feature that vastly encourages the further development of programs and other projects. If you find a project on GitHub that you’d like to contribute to, you can fork the repo, make the changes you’d like, and release the revised project as a new repo. If the original repository that you forked to create your new project gets updated, you can easily add those updates to your current fork.
 
-**Git: version control software that manages changes to a project without overwriting any part of the project. 
+**Git:** version control software that manages changes to a project without overwriting any part of the project. 
 
-**HEAD: Think of HEAD as the current branch that is being checked out. The HEAD is simply a reference to the last commit, or the “parent of your next commit”. It can be moved around by using “detached head mode”, but this is dangerous as it can alter saved work. 
+**HEAD:** Think of HEAD as the current branch that is being checked out. The HEAD is simply a reference to the last commit, or the “parent of your next commit”. It can be moved around by using “detached head mode”, but this is dangerous as it can alter saved work. 
 
 **Push:** Sending information up to be stored on github.com’s servers
 
