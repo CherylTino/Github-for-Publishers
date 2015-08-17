@@ -1,6 +1,6 @@
 ---
 title:  "Git Dictionary"
-date:   2013-11-10 10:18:00
+date:   2013-08-10 10:18:00
 description: 'A Quick Reference Guide to Git Lingo'
 ---
 **Branch:** How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project. 

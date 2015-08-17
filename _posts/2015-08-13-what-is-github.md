@@ -1,11 +1,11 @@
 ---
 title:  "What is Github?"
-date:   2015-08-13 10:18:00
+date:   2015-08-18 10:18:00
 description: And why is it important to me?
 ---
 _Git_ is a version control application that allows multiple people to work on and make edits to the same project. If there is a conflict of changes, Git will save two copies and you can later merge changes together without losing any work. You can also revert to an earlier version because Git keeps a snapshot of every change ever made to each file. Git thinks about data as a stream of snapshots rather than a set of files and the changes made to each file over time.
 
-There are three main sections of a git project: **the Git directory, the working directory, and the staging area.**
+#####There are three main sections of a git project: **the Git directory, the working directory, and the staging area.**
 
 The Git directory is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.
 
@@ -13,14 +13,16 @@ The working directory is a single checkout of one version of the project. These 
 
 The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area.
 
-**The basic Git workflow goes something like this:**
+#####**The basic Git workflow goes something like this:**
 
 1. You modify files in your working directory.
 2. You stage the files, adding snapshots of them to your staging area.
 3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
+
+##**What Makes Github Unique?**
 **Git operates locally.** For instance, to browse commit history (using git log), git doesn’t need to go to the server to obtain the history because the entire history of the project is on your local disk. This makes most operations almost instantaneous.
 
-**Git generally only adds data: ** meaning it’s hard to erase things in Git. You CAN lose or mess up changes you haven’t committed yet, but after you commit a snapshot to Git, it’s very difficult to lose.
+**Git generally only adds data:** meaning it’s hard to erase things in Git. You CAN lose or mess up changes you haven’t committed yet, but after you commit a snapshot to Git, it’s very difficult to lose.
 
-Github also allows you to browse and study other user’s projects by “forking” or copying other repositories. You can even suggest changes to other repositories by sending a pull request. By doing this, Git wants users to learn from each other and help each other in the spirit of open source development.
+**Git promotes collaboration:** Github allows you to browse and study other user’s projects by “forking” or copying other repositories. You can even suggest changes to other repositories by sending a pull request. By doing this, GitHub wants users to learn from each other and help each other in the spirit of open source development.

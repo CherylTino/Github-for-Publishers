@@ -4,6 +4,9 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+#About the Author
+Hello! I'm Cheryl Tolentino, Multicultural Undergrad Intern for Getty Publications in the Summer of 2015. I'm an undergraduate student at the University of Southern California majoring in Business Administration. I am interested in digital media, data science, and education technology. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/cheryltolentino)! 
+
+Thanks for viewing my quick GitHub overview. This site is one of many projects I got to work on here at the Getty, and I am so glad to share this project with you! GitHub is a great site to work with for programmers and non-programmers alike; I hope that this short tutorial helped pique your interest. 
 
 {% include footer.html %}
