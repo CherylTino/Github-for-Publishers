@@ -3,7 +3,9 @@ title:  "What is Github?"
 date:   2015-08-18 10:18:00
 description: And why is it important to me?
 ---
-_Git_ is a version control application that allows multiple people to work on and make edits to the same project. If there is a conflict of changes, Git will save two copies and you can later merge changes together without losing any work. You can also revert to an earlier version because Git keeps a snapshot of every change ever made to each file. Git thinks about data as a stream of snapshots rather than a set of files and the changes made to each file over time.
+#Collaborative Version Control
+_Git_ is a version control system that allows multiple people to work on and make edits to the same project. If there is a conflict of changes, Git will save two copies and you can later merge changes together without losing any work. You can also revert to an earlier version because Git keeps a snapshot of every change ever made to each file. Git thinks about data as a stream of snapshots rather than a set of files and the changes made to each file over time.
+Each project will have its own repository that can be accessed by a unique URL. 
 
 #####There are three main sections of a git project: **the Git directory, the working directory, and the staging area.**
 
@@ -15,9 +17,9 @@ The staging area is a file, generally contained in your Git directory, that stor
 
 #####**The basic Git workflow goes something like this:**
 
-1. You modify files in your working directory.
-2. You stage the files, adding snapshots of them to your staging area.
-3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+	1. You modify files in your working directory.
+	2. You stage the files, adding snapshots of them to your staging area.
+	3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
 
 ##**What Makes Github Unique?**

@@ -21,7 +21,7 @@ description: 'A Quick Reference Guide to Git Lingo'
 
 **Push:** Sending information up to be stored on github.com’s servers
 
-**Pull:** Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+**Pull:** Pull requests let you tell others about changes you've made to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
 **Repository:** A directory or storage space where your projects can live. Users also shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, etc. inside a repository. 
 
