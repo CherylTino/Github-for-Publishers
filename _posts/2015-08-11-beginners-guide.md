@@ -7,7 +7,7 @@ A handful of wonderful resources to get you started!
 
 [Beginner’s guide to GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1): A clear explanation of the command line interface.
 
-[Ultra-simple guide to getting started with git.](http://rogerdudler.github.io/git-guide/)(With Diagrams!)
+[Ultra-simple guide to getting started with git.](http://rogerdudler.github.io/git-guide/) (With Diagrams!)
 
 
 [Code School Tutorial](https://try.github.io/levels/1/challenges/1)– Hands-on Experience! This is a great tutorial to help understand how Git Works!
@@ -18,7 +18,7 @@ A handful of wonderful resources to get you started!
 
 [Push/Pull Requests Help](https://help.github.com/articles/how-can-i-push-or-pull/)
 
-[GitHub Presents: Hello-world Activity](https://guides.github.com/activities/hello-world/)A hands-on exercise every beginner should try.
+[GitHub Presents: Hello-world Activity](https://guides.github.com/activities/hello-world/) A hands-on exercise every beginner should try.
 
 [Git Basics:](https://git-scm.com/doc) Helpful, In-Depth Documentation
 
