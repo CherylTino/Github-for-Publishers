@@ -3,7 +3,7 @@ title:  "Beginner's Guides to Git"
 date:   2015-08-14 10:18:00
 description: 'Build your Git skills with links, hands-on tutorials, and reference guides!'
 ---
-A handful of wonderful resources to get you started!
+A handful of wonderful resources to get you started! All of these sources helped me create this website!
 
 [Beginner’s guide to GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1): A clear explanation of the command line interface.
 

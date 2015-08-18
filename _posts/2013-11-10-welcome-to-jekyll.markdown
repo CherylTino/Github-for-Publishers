@@ -3,7 +3,7 @@ title:  "Git Dictionary"
 date:   2013-08-10 10:18:00
 description: 'A Quick Reference Guide to Git Lingo'
 ---
-**Branch:** How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project. 
+**Branch:** This is how multiple people can work on a project at the same time without Git getting them confused. When working on a specific section of the project, a user can “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project. 
 
 **Changelog:** A list of the changes made to a repository that includes commit messages, authors, and other metadata linked to each revision. 
 
@@ -18,6 +18,8 @@ description: 'A Quick Reference Guide to Git Lingo'
 **Git:** version control software that manages changes to a project without overwriting any part of the project. 
 
 **HEAD:** Think of HEAD as the current branch that is being checked out. The HEAD is simply a reference to the last commit, or the “parent of your next commit”. It can be moved around by using “detached head mode”, but this is dangerous as it can alter saved work. 
+
+**Master** This is the default branch automatically created when you create a new repository. 
 
 **Push:** Sending information up to be stored on github.com’s servers
 
