@@ -7,6 +7,8 @@ description: And why is it important to me?
 _Git_ is a version control system that allows multiple people to work on and make edits to the same project. If there is a conflict of changes, Git will save two copies and you can later merge changes together without losing any work. You can also revert to an earlier version because Git keeps a snapshot of every change ever made to each file. Git thinks about data as a stream of snapshots rather than a set of files and the changes made to each file over time.
 Each project will have its own repository that can be accessed by a unique URL. 
 
+GitHub is useful for building any type of collaborative project. After adjusting yourself to the git workflow, the program is actually quite simple to use!
+
 #####There are three main sections of a git project: **the Git directory, the working directory, and the staging area.**
 
 The _Git directory_ is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer. This information is stored remotely. 
